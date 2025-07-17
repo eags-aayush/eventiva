@@ -1,4 +1,6 @@
 {
+  "type": "module",
+  "name": "eventivate-server",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0",
